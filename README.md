@@ -1,7 +1,7 @@
 ### Hey bro ! 👋
 
 - 🔭 I’m currently working on Qianmi in Nanjing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Go and Netty
 - 👯 I’m looking to collaborate on English learning
 - 🤔 I’m looking for help with Career planning
 - 💬 My Blog: https://cpyeah.github.io/
